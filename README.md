@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @albintec a 27 year old computer engineering student
-- 👀 I’m interested in Web development and android development
-- 🌱 I’m currently learning about Web development and android development
+- 👋 Hi, I’m @albintec a 28 year old computer engineering student
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning about Web development
 - 💞️ I’m looking to collaborate on this areas
 - 📫 How to reach me albintec@gmail.conm
 
